@@ -1,0 +1,6 @@
+## Interface: 0
+## Title: VoiceOver (3.3.5 Loader)
+## Notes: This addon is useless for modern clients and can be safely ignored or deleted (AI_VoiceOver_335 folder). It's disabled by default and does nothing even if enabled.|n|nIt exists solely to assist with loading VoiceOver on legacy Wrath clients (version 3.3.5).
+## Version: 3.3.5
+## X-Part-Of: VoiceOver
+## DefaultState: disabled

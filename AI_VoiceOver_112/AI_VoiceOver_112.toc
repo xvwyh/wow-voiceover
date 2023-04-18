@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VoiceOver (1.12 Loader)
+## Notes: This addon assists with loading VoiceOver on legacy Vanilla clients (version 1.12 and derivatives).|n|nOn any other client it does nothing and can be safely ignored or deleted (AI_VoiceOver_112 folder).
+## Version: 1.12
+## X-Part-Of: VoiceOver
+
+Loader.lua

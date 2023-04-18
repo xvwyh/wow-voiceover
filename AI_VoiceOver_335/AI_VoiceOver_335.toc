@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: VoiceOver (3.3.5 Loader)
+## Notes: This addon assists with loading VoiceOver on legacy Wrath clients (version 3.3.5).|n|nOn any other client it does nothing and can be safely ignored or deleted (AI_VoiceOver_335 folder).
+## Version: 3.3.5
+## X-Part-Of: VoiceOver
+
+Loader.lua

@@ -1,9 +1,9 @@
 ## Interface: 30300
-## Title: VoiceOver
-## Notes: Adds voiceovers to npcs.
+## Title: VoiceOver (Core)
+## Notes: Adds voiceovers to npcs.|n|nIt's ok for this addon to appear "|cFFFF2020out of date|r" on legacy clients, the respective "Loader" addons will take care of forcibly loading it.
 ## Version: 1.3.0
 ## SavedVariables: VoiceOverDB
 ## X-Part-Of: VoiceOver
+## LoadOnDemand: 1
 
-3.3.5\embeds.xml
 addon.xml

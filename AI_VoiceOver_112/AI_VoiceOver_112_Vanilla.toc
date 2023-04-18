@@ -1,0 +1,6 @@
+## Interface: 0
+## Title: VoiceOver (1.12 Loader)
+## Notes: This addon is useless for modern clients and can be safely ignored or deleted (AI_VoiceOver_112 folder). It's disabled by default and does nothing even if enabled.|n|nIt exists solely to assist with loading VoiceOver on legacy Vanilla clients (version 1.12 and derivatives).
+## Version: 1.12
+## X-Part-Of: VoiceOver
+## DefaultState: disabled
